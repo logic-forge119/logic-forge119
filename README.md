@@ -1,9 +1,7 @@
 
 # 👋 Hi there, I'm Gajiul Islam
 
-![Banner](https://raw.githubusercontent.com/gajiul-dev5/gajiul-dev5/main/banner.png)
 
-👉 [Check out my Copilot profile preview](https://copilot.microsoft.com/shares/gm52GsiNHmCFYkGSFVHpt)
 
 
 I'm a passionate self-learner diving deep into the world of **C programming**, **problem-solving**, and tool-building. I'm currently growing through hands-on projects, coding challenges, and community collaboration.
