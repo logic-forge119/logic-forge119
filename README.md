@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Gaziul Islam
+# 👋 Hi there, I'm Gajiul Islam
 
 <!-- Optional Banner -->
 ![Banner](https://raw.githubusercontent.com/gajiul-dev5/gajiul-dev5/main/banner.png)
