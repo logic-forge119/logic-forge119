@@ -52,7 +52,7 @@ I'm a passionate self-learner diving deep into the world of **C programming**, *
 
 ## 🚀 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gajiul-dev5&repo=your-project&theme=radical)](https://github.com/gajiul-dev5/your-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gajiul-dev5&repo=todo-list&theme=radical)](https://github.com/gajiul-dev5/todo-list)
 
 ---
 
