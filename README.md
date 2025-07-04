@@ -50,11 +50,4 @@ I'm a passionate self-learner diving deep into the world of **C programming**, *
 
 ---
 
-## 🚀 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gajiul-dev5&repo=todo-list&theme=radical)](https://github.com/gajiul-dev5/todo-list)
-
-
----
-
 > *“I don’t chase perfection — I chase progress. Every line of code is a step forward.”*
