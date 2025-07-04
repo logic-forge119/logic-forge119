@@ -37,7 +37,7 @@ I'm a passionate self-learner diving deep into the world of **C programming**, *
 <a href="https://judge.beecrowd.com/en/profile/1134959" target="_blank">
   <img src="https://camo.githubusercontent.com/b2dcc61143d6fc2bad27f9a6596b1b8533b3d4f137690c6c75f15e4bb175a229/68747470733a2f2f7265736f75726365732e62656563726f77642e636f6d2e62722f6a756467652f696d672f352e302f6c6f676f2d62656563726f77642e706e673f31363335303937303336"
        alt="beecrowd"
-       style="width:48px;height:28px;">
+       style="width:45px;height:32px;">
 </a>
 </p>
 
