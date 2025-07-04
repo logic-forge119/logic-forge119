@@ -34,8 +34,8 @@ I'm a passionate self-learner diving deep into the world of **C programming**, *
 <a href="https://fb.com/gajiuldev5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gajiuldev5" height="30" width="40" /></a>
 <a href="https://instagram.com/ro_key_83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro_key_83" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gajiul-dev5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gajiul-dev5" height="30" width="40" /></a>
-  <a href="https://www.beecrowd.com.br/judge/en/profile/YourUsername" target="_blank">
-  <img src="icons/beecrowd.png" alt="beecrowd" style="width:32px;height:32px;">
+<a href="https://judge.beecrowd.com/en/profile/1134959" target="_blank">
+  <img src="[icons/beecrowd.png" alt="beecrowd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flucasmarcuzo%2FBeecrowd&psig=AOvVaw3JCt0XFkBX7-PuXzoCbO1f&ust=1751734441378000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi4rbjVo44DFQAAAAAdAAAAABAK)" style="width:32px;height:32px;">
 </a>
 </p>
 
