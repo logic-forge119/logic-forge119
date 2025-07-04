@@ -35,7 +35,7 @@ I'm a passionate self-learner diving deep into the world of **C programming**, *
 <a href="https://instagram.com/ro_key_83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro_key_83" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gajiul-dev5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gajiul-dev5" height="30" width="40" /></a>
 <a href="https://judge.beecrowd.com/en/profile/1134959" target="_blank">
-  <img src="[icons/beecrowd.png" alt="beecrowd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flucasmarcuzo%2FBeecrowd&psig=AOvVaw3JCt0XFkBX7-PuXzoCbO1f&ust=1751734441378000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi4rbjVo44DFQAAAAAdAAAAABAK)" style="width:32px;height:32px;">
+  <img src="https://camo.githubusercontent.com/b2dcc61143d6fc2bad27f9a6596b1b8533b3d4f137690c6c75f15e4bb175a229/68747470733a2f2f7265736f75726365732e62656563726f77642e636f6d2e62722f6a756467652f696d672f352e302f6c6f676f2d62656563726f77642e706e673f31363335303937303336" style="width:32px;height:32px;">
 </a>
 </p>
 
