@@ -11,7 +11,7 @@ I'm a passionate self-learner diving deep into the world of *C programming*, *pr
 ---
 
 ## 🧠 Currently Learning
-- C Programming (core concepts, memory, pointers)
+- C++ Programming (core concepts, memory, pointers)
 - Competitive Programming (algorithms, logic building)
 - Git & GitHub (version control and teamwork)
 - Technical English (for clear and concise communication)
