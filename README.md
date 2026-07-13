@@ -49,6 +49,9 @@ I'm a passionate self-learner diving deep into the world of *C programming*, *pr
 
 ![Gaziul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logic-forge119&show_icons=true&theme=radical&hide_border=true)  
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logic-forge119&show_icons=true&locale=en" alt="logic-forge119" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logic-forge119&" alt="logic-forge119" /></p>
 
 
 
