@@ -29,14 +29,11 @@ I'm a passionate self-learner diving deep into the world of *C programming*, *pr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gajiul_dev5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajiul_dev5" height="30" width="40" /></a>
-<a href="https://fb.com/gajiuldev5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gajiuldev5" height="30" width="40" /></a>
+<a href="https://fb.com/gajiuldev5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="logic-forge119" height="30" width="40" /></a>
 <a href="https://instagram.com/ro_key_83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro_key_83" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/logic-forge119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="logic-forge119" height="30" width="40" /></a>
-<a href="https://judge.beecrowd.com/en/profile/1134959" target="_blank">
-  <img src="https://camo.githubusercontent.com/b2dcc61143d6fc2bad27f9a6596b1b8533b3d4f137690c6c75f15e4bb175a229/68747470733a2f2f7265736f75726365732e62656563726f77642e636f6d2e62722f6a756467652f696d672f352e302f6c6f676f2d62656563726f77642e706e673f31363335303937303336"
-       alt="beecrowd"
-       style="width:45px;height:32px;">
-</a>
+
+  
 </p>
 
 
@@ -46,13 +43,17 @@ I'm a passionate self-learner diving deep into the world of *C programming*, *pr
 
 
 ## 📊 GitHub Stats
+[](https://github-readme-stats.shion.dev/api?username=logic-forge119&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=logic-forge119&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=logic-forge119&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logic-forge119&" alt="logic-forge119" /></p>
-
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=logic-forge119&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 *“I don’t chase perfection — I chase progress. Every line of code is a step forward.”*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=logic-forge119&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=logic-forge119&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
