@@ -58,16 +58,9 @@ I'm a passionate Computer Science student and self-learner who enjoys building s
 [](https://github-readme-stats.shion.dev/api?username=logic-forge119&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=logic-forge119&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=logic-forge119&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSushant03&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSushant03&theme=tokyonight" alt="Most Commit Language"/>
 
-## 📊 Activity Graph
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSushant03&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=logic-forge119&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -80,15 +73,7 @@ I'm a passionate Computer Science student and self-learner who enjoys building s
 
 
 
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
