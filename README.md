@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gajiul Islam
 
-I'm a passionate self-learner diving deep into the world of *C programming*, *problem-solving*, and tool-building. I'm currently growing through hands-on projects, coding challenges, and community collaboration.
+I'm a passionate Computer Science student and self-learner who enjoys building software that solves real-world problems. Currently, I'm strengthening my programming fundamentals through Java, JavaScript, and backend development while continuously improving my problem-solving skills. My long-term vision is to contribute to impactful technology that benefits society and to grow as a software engineer in a top global tech company.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,18 +11,22 @@ I'm a passionate self-learner diving deep into the world of *C programming*, *pr
 ---
 
 ## 🧠 Currently Learning
-- C++ Programming (core concepts, memory, pointers)
+- Java (Object-Oriented Programming)
 - Competitive Programming (algorithms, logic building)
 - Git & GitHub (version control and teamwork)
 - Technical English (for clear and concise communication)
+- JavaScript (ES6+)
+- Data Structures & Problem Solving
 
 ---
 
 ## 🎯 Goals
-- Master foundational programming and system design
-- Participate in online and on-site coding contests
-- Build a portfolio of impactful, real-world projects
+- Build scalable and real-world software solutions
+- Strengthen problem-solving and software engineering skills
+- Master full-stack web development
+- Work at a top global technology company
 - Contribute to open-source initiatives
+- Build technology that creates a positive impact for my country
 
 ---
 
