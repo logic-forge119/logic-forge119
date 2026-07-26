@@ -1,5 +1,13 @@
 # 👋 Hi there, I'm Gajiul Islam
 
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+
+
 I'm a passionate Computer Science student and self-learner who enjoys building software that solves real-world problems. Currently, I'm strengthening my programming fundamentals through Java, JavaScript, and backend development while continuously improving my problem-solving skills. My long-term vision is to contribute to impactful technology that benefits society and to grow as a software engineer in a top global tech company.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
